@@ -417,6 +417,10 @@ p {
     padding: 90px 0;
 }
 
+.whiteness__block {
+    background-color: var(--bg-2);
+}
+
 .whiteness__list {
     display: flex;
     gap: 30px;
